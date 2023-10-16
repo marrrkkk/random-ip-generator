@@ -1,6 +1,6 @@
 {
   "name": "random-ip-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate fake random IP addresses",
   "main": "index.js",
   "scripts": {
